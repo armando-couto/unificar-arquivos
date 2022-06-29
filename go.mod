@@ -3,7 +3,7 @@ module unificar-arquivos
 go 1.15
 
 require (
-	github.com/armando-couto/goutils v1.10.3
+	github.com/armando-couto/goutils v1.20.4
 	github.com/aws/aws-sdk-go v1.38.51 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/jackc/pgproto3/v2 v2.0.7 // indirect
