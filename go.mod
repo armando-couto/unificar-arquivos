@@ -1,6 +1,6 @@
 module unificar-arquivos
 
-go 1.15
+go 1.18
 
 require (
 	github.com/armando-couto/goutils v1.20.4
