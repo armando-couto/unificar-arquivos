@@ -31,6 +31,8 @@ github.com/armando-couto/goutils v1.22.1 h1:LlMkK0EzY9tdQ/5wE/oJp0hBja8CLEZvHclF
 github.com/armando-couto/goutils v1.22.1/go.mod h1:od6n2mCVnwBjVH7FgnJA8XKAO5+Q/QwERIzo1IINOyM=
 github.com/armando-couto/goutils v1.23.2 h1:kZB2VwdaLqOFRlKaDU8vS/mLhRGAlJdlHPduY3RAC9U=
 github.com/armando-couto/goutils v1.23.2/go.mod h1:iuQXkHf4thjqy7In1Q3x7S99phjIShNcjHic0trSVF4=
+github.com/armando-couto/goutils v1.23.3 h1:+mjx0WsOEBqCSKGAWXpysAeX/m+dKWbQmSHrTWluiUI=
+github.com/armando-couto/goutils v1.23.3/go.mod h1:j+1dt0/3wh1ddZywl1F76M/dFr5/sOO18LimgAW4dk8=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
 github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da/go.mod h1:Q73ZrmVTwzkszR9V5SSuryQ31EELlFMUz1kKyl939pY=
 github.com/armon/go-radix v0.0.0-20180808171621-7fddfc383310/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgIH9cCH8=
@@ -53,6 +55,8 @@ github.com/aws/aws-sdk-go v1.44.202 h1:nk/DtYoAS7zX4SbfiQEJO+C0GBN8ZxXrkD+BozwLv
 github.com/aws/aws-sdk-go v1.44.202/go.mod h1:aVsgQcEevwlmQ7qHE9I3h+dtQgpqhFB+i8Phjh7fkwI=
 github.com/aws/aws-sdk-go v1.44.229 h1:lku0ZSHRzj/qtFVM//QE8VjV6kvJ6CFijDZSsjNaD9A=
 github.com/aws/aws-sdk-go v1.44.229/go.mod h1:aVsgQcEevwlmQ7qHE9I3h+dtQgpqhFB+i8Phjh7fkwI=
+github.com/aws/aws-sdk-go v1.44.237 h1:gsmVP8eTB6id4tmEsBPcjLlYi1sXtKA047bSn7kJZAI=
+github.com/aws/aws-sdk-go v1.44.237/go.mod h1:aVsgQcEevwlmQ7qHE9I3h+dtQgpqhFB+i8Phjh7fkwI=
 github.com/aws/aws-sdk-go-v2 v0.18.0/go.mod h1:JWVYvqSMppoMJC0x5wdwiImzgXTI9FuZwxzkQq9wy+g=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+CedLV8=
@@ -480,6 +484,8 @@ go.mongodb.org/mongo-driver v1.11.2 h1:+1v2rDQUWNcGW7/7E0Jvdz51V38XXxJfhzbV17aNH
 go.mongodb.org/mongo-driver v1.11.2/go.mod h1:s7p5vEtfbeR1gYi6pnj3c3/urpbLv2T5Sfd6Rp2HBB8=
 go.mongodb.org/mongo-driver v1.11.3 h1:Ql6K6qYHEzB6xvu4+AU0BoRoqf9vFPcc4o7MUIdPW8Y=
 go.mongodb.org/mongo-driver v1.11.3/go.mod h1:PTSz5yu21bkT/wXpkS7WR5f0ddqw5quethTUn9WM+2g=
+go.mongodb.org/mongo-driver v1.11.4 h1:4ayjakA013OdpGyL2K3ZqylTac/rMjrJOMZ1EHizXas=
+go.mongodb.org/mongo-driver v1.11.4/go.mod h1:PTSz5yu21bkT/wXpkS7WR5f0ddqw5quethTUn9WM+2g=
 go.opencensus.io v0.20.1/go.mod h1:6WKK9ahsWS3RSO+PY9ZHZUfv2irvY6gN279GOPZjmmk=
 go.opencensus.io v0.20.2/go.mod h1:6WKK9ahsWS3RSO+PY9ZHZUfv2irvY6gN279GOPZjmmk=
 go.opencensus.io v0.22.2/go.mod h1:yxeiOL68Rb0Xd1ddK5vPZ/oVn4vY4Ynel7k9FzqtOIw=
