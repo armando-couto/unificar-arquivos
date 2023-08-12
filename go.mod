@@ -2,10 +2,10 @@ module unificar-arquivos
 
 go 1.19
 
-require github.com/armando-couto/goutils v1.25.0
+require github.com/armando-couto/goutils v1.26.0
 
 require (
-	github.com/aws/aws-sdk-go v1.44.294 // indirect
+	github.com/aws/aws-sdk-go v1.44.322 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-sql-driver/mysql v1.7.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -34,12 +34,12 @@ require (
 	github.com/xdg-go/scram v1.1.2 // indirect
 	github.com/xdg-go/stringprep v1.0.4 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
-	go.mongodb.org/mongo-driver v1.12.0 // indirect
-	golang.org/x/crypto v0.10.0 // indirect
+	go.mongodb.org/mongo-driver v1.12.1 // indirect
+	golang.org/x/crypto v0.12.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
-	golang.org/x/text v0.10.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gorm.io/driver/postgres v1.5.2 // indirect
-	gorm.io/gorm v1.25.2 // indirect
+	gorm.io/gorm v1.25.3 // indirect
 )
