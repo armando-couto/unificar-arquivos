@@ -2,7 +2,7 @@ module unificar-arquivos
 
 go 1.19
 
-require github.com/armando-couto/goutils v1.26.0
+require github.com/armando-couto/goutils v1.26.1
 
 require (
 	github.com/aws/aws-sdk-go v1.44.322 // indirect
